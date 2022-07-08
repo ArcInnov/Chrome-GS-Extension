@@ -20,3 +20,10 @@ You made file popup.css iinstead of button.css theefore your demo was not matchi
 There is something wrong I dont know what but will resolve it later
 
 How does box shadow work?
+
+What does a div tag do?
+The <div> tag defines a division or a section in an HTML document. The <div> tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript. The <div> tag is easily styled by using the class or id attribute
+
+I dont still fully understand the 4 button optioon,js
+
+But We can say that the extension works
